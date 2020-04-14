@@ -1,4 +1,4 @@
-##File monitor
+## File monitor
  File system monitor with REST API, detects changes in added folders, <br>
 information about folders is accessible thought REST API. <br>
 Can be used with UNIX file system as well as Windows, <br>
