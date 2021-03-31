@@ -65,7 +65,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>28.1-jre</version>
+			<version>29.0-jre</version>
 		</dependency>
 
 		<!-- @PostConstruct and @PreDestroy annotations are part of Java EE. And since Java EE has been deprecated in
