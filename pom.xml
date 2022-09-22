@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<version>42.3.3</version>
+			<version>42.3.7</version>
 		</dependency>
 
 		<!--https://stackoverflow.com/questions/40058001/error-creating-bean-with-name-entitymanagerfactory-defined-in-class-path-resou -->
